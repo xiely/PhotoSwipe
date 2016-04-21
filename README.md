@@ -67,6 +67,6 @@ PhotoSwipe 4.0+ is developed by [Dmitry Semenov](http://twitter.com/dimsemenov).
 
 
 
-Thank you for your word
+Thank you for your work!
 
 
